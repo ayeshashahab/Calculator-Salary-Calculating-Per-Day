@@ -1,0 +1,21 @@
+C:\Users\Alsaba\source\repos\my first from\bin\Debug\my first from.exe.config
+C:\Users\Alsaba\source\repos\my first from\bin\Debug\my first from.exe
+C:\Users\Alsaba\source\repos\my first from\bin\Debug\my first from.pdb
+C:\Users\Alsaba\source\repos\my first from\obj\Debug\my first from.csproj.AssemblyReference.cache
+C:\Users\Alsaba\source\repos\my first from\obj\Debug\my first from.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alsaba\source\repos\my first from\obj\Debug\my_first_from.Form1.resources
+C:\Users\Alsaba\source\repos\my first from\obj\Debug\my_first_from.Properties.Resources.resources
+C:\Users\Alsaba\source\repos\my first from\obj\Debug\my first from.csproj.GenerateResource.cache
+C:\Users\Alsaba\source\repos\my first from\obj\Debug\my first from.csproj.CoreCompileInputs.cache
+C:\Users\Alsaba\source\repos\my first from\obj\Debug\my first from.exe
+C:\Users\Alsaba\source\repos\my first from\obj\Debug\my first from.pdb
+E:\vs stdio c# project\my first from\bin\Debug\my first from.exe.config
+E:\vs stdio c# project\my first from\bin\Debug\my first from.exe
+E:\vs stdio c# project\my first from\bin\Debug\my first from.pdb
+E:\vs stdio c# project\my first from\obj\Debug\my first from.csproj.AssemblyReference.cache
+E:\vs stdio c# project\my first from\obj\Debug\my_first_from.Form1.resources
+E:\vs stdio c# project\my first from\obj\Debug\my_first_from.Properties.Resources.resources
+E:\vs stdio c# project\my first from\obj\Debug\my first from.csproj.GenerateResource.cache
+E:\vs stdio c# project\my first from\obj\Debug\my first from.csproj.CoreCompileInputs.cache
+E:\vs stdio c# project\my first from\obj\Debug\my first from.exe
+E:\vs stdio c# project\my first from\obj\Debug\my first from.pdb
